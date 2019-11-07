@@ -1,0 +1,15 @@
+Thu Nov 07 14:59:45 CET 2019 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+Thu Nov 07 15:22:03 CET 2019 Thread[DRDAConnThread_2,5,main] (DATABASE = MKazalski), (DRDAID = {1}), JDBC attribute 'create' has an invalid value 'true'', valid values are '{true|false}'.
+----------------------------------------------------------------
+Thu Nov 07 15:22:24 CET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-4629-f602-ffffdfaa2837 
+on database directory /tmp/kazalski-hibernate/db-derby-10.14.2.0-bin/bin/MKazalski with class loader sun.misc.Launcher$AppClassLoader@511d50c0 
+Loaded from file:/tmp/kazalski-hibernate/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_222-b10
+user.dir=/tmp/kazalski-hibernate/db-derby-10.14.2.0-bin/bin
+os.name=Linux
+os.arch=amd64
+os.version=5.2.15-200.fc30.x86_64
+derby.system.home=/tmp/kazalski-hibernate/db-derby-10.14.2.0-bin/bin
+Database Class Loader started - derby.database.classpath=''
